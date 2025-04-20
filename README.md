@@ -1,10 +1,10 @@
 # Blackjack Game
 
-Overview
+## Overview
 
 This console-based Blackjack game, written in Python, offers a classic casino-style experience where players compete against a dealer to reach a card value as close to 21 as possible without busting. The game features a clean interface, robust input validation, and an AI-driven dealer that makes strategic decisions based on card values and randomized probabilities.
 
-Features
+## Features
 
 
 
@@ -32,9 +32,9 @@ Robust Input Validation: Ensures reliable handling of user inputs to prevent cra
 
 Beginner-Friendly Rules Prompt: Offers a link to Blackjack rules for players unfamiliar with the game.
 
-Installation
+## Installation
 
-Prerequisites
+### Prerequisites
 
 
 
@@ -42,7 +42,7 @@ Prerequisites
 
 Python 3.x installed on your system.
 
-Steps
+### Steps
 
 
 
@@ -102,7 +102,7 @@ The dealer plays automatically, and the winner is determined based on card value
 
 Continue until all specified games are played.
 
-Code Structure
+## Code Structure
 
 
 
@@ -116,7 +116,7 @@ Main Class: Blackjack
 
 
 
-Key Methods:
+## Key Methods:
 
 
 
@@ -136,7 +136,7 @@ play_round(): Manages a single round, including card dealing and player/dealer t
 
 determine_winner(): Evaluates and displays the outcome (win, loss, or tie).
 
-Future Enhancements
+## Future Enhancements
 
 
 
@@ -156,11 +156,11 @@ Implement score tracking and persistence (e.g., using SQLite) to save high score
 
 Create a web-based version with Flask or Django for online accessibility.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -185,4 +185,22 @@ Push to the branch (git push origin feature/your-feature).
 
 
 Open a pull request.
+
+## Contact
+
+For questions, suggestions, or issues, please:
+
+
+
+
+
+Open an issue on GitHub.
+
+
+
+Contact Atharv Sharma at atharvsharmatgu@gmail.com.
+
+
+
+This project showcases Python skills, including object-oriented programming, randomization, and game logic. It was built as a fun and educational exercise to simulate a popular card game. Enjoy playing, and may the cards be in your favor!
 
