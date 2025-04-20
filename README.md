@@ -1,9 +1,9 @@
-# Blackjack
-##Overview
+# Blackjack #
+##Overview##
 
 This is a console-based Blackjack game implemented in Python. The game simulates a classic casino-style Blackjack experience where players compete against a dealer to get as close to 21 as possible without going over. It features a simple yet engaging interface, robust input validation, and an AI-driven dealer that makes decisions based on card values and random chance.
 
-##Features
+##Features##
 
 
 
@@ -31,7 +31,7 @@ Input Validation: Ensures robust handling of user inputs, preventing crashes fro
 
 Rules Prompt: Offers a link to Blackjack rules for new players.
 
-##How to Run
+##How to Run##
 
 
 
@@ -53,7 +53,7 @@ cd blackjack
 
 
 
-##Run the Game:
+##Run the Game:##
 
 python blackjack.py
 
@@ -71,7 +71,7 @@ blackjack.py: The main script containing the Blackjack class, which handles game
 
 
 
-##Key methods:
+##Key methods:##
 
 
 
@@ -91,7 +91,7 @@ play_round(): Manages a single round of gameplay.
 
 determine_winner(): Evaluates and displays the game outcome.
 
-##Potential Improvements
+##Potential Improvements##
 
 
 
@@ -111,11 +111,11 @@ Add score tracking and persistence to save high scores across sessions.
 
 Create a web-based version using Flask or Django for online play.
 
-##License
+##License##
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+##Contact##
 
 For questions or suggestions, feel free to open an issue or contact Atharv Sharma at atharvsharmatgu@gmail.com.
 
