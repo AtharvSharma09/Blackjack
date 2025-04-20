@@ -50,7 +50,7 @@ Steps
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/blackjack.git
+git clone https://github.com/AtharvSharma09/Blackjack.git
 
 
 
