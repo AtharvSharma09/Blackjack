@@ -48,7 +48,7 @@ Python 3.x installed on your system.
 
 
 
-Clone the Repository:
+### Clone the Repository:
 
 git clone https://github.com/AtharvSharma09/Blackjack.git
 
@@ -60,11 +60,11 @@ cd blackjack
 
 
 
-Run the Game:
+### Run the Game:
 
 python blackjack.py
 
-Usage
+### Usage
 
 
 
@@ -82,7 +82,7 @@ Specify the number of games you want to play.
 
 
 
-For each round:
+### For each round:
 
 
 
