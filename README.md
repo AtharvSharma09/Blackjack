@@ -198,7 +198,7 @@ Open an issue on GitHub.
 
 
 
-Contact Atharv Sharma at atharvsharmatgu@gmail.com.
+Contact Atharv Sharma at atharvsharmatgu@gmail.com. 
 
 
 
